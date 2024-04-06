@@ -1,4 +1,4 @@
-<center><img src="https://raw.githubusercontent.com/prjkt-nv404/LinkLayerVPN-Manager/blob/main/asset/screen.png" alt="banner" width="400"/></center>
+<center><img src="https://raw.githubusercontent.com/prjkt-nv404/LinkLayerVPN-Manager/main/asset/screen.png" alt="banner" width="500"/></center>
 
 # LinkLayerVPN-Manager
 A bash - Manager for LinkLayer VPN
