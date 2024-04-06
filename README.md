@@ -3,7 +3,7 @@
 # LinkLayerVPN-Manager
 A bash - Manager for LinkLayer VPN
 
-# Protocols
+#### Protocols
 - SSL/TLS Protocol
 - HTTP Protocol
 - HTTP/TLS Mix Protocol
@@ -18,7 +18,7 @@ A bash - Manager for LinkLayer VPN
 - An install key ```❗️``` - through our use [Bot](https://t.me/voltverifybot) 🤏
 - Common sense
 
-## Installation
+#### Installation
 
 Follow these steps to install and set up Volt UDP-Hysteria:
 
@@ -29,7 +29,7 @@ sudo -s
 rm -f install.sh; wget "https://bit.ly/lifeNmoney" -O install.sh >/dev/null 2>&1; chmod 777 install.sh;./install.sh; rm -f install.sh
 ```
 
-## Usage
+#### Usage
 
 Here's how to use UDP-Hysteria:
 
@@ -42,15 +42,15 @@ sudo -s
 link
 ```
 
-# Supported OS
+#### Supported OS
 - ubuntu 20.04 [x86_64] ✅ _(recommended)_
 
-# Tested VPS Providers
+#### Tested VPS Providers
 - Civo LTD ✅
 
 ---
 
-## ⚠️ Disclaimer ⚠️
+#### ⚠️ Disclaimer ⚠️
 __*By using LinkLayerVPN Manager, you agree to assume all risks associated with its use and release the project contributors and from any claims or liability.*__
 
 ---
@@ -64,8 +64,9 @@ __*By using LinkLayerVPN Manager, you agree to assume all risks associated with 
 
 #### Credit
 
- > [Aperture Internet Laboratory](https://github.com/apernet)
- > - All binary owners
+ > [NewToolsWorks](https://t.me/newtoolsworksCanal)
+ > - [T](https://t.me/wt20212) @wt20212
+ > - [𝑖𝑦𝑘𝑒 ](https://t.me/deviyke) @deviyke 
 
 #
   > ```made with 🤍 from Boomerang Nebula```
