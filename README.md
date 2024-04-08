@@ -9,7 +9,7 @@ A bash - Manager for LinkLayer VPN
 - HTTP/TLS Mix Protocol
 - WebSocket Protocol
 - DNSTT Protocol
-- UDP-H Protocol
+- UDP HyRequest Protocol
 - HTTP Dual Protocol
 
 #### Requirement
