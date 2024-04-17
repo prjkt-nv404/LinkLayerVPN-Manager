@@ -52,7 +52,7 @@ link
 #### Changelog
 
 <details class="details" style="border: 1px solid #ccc; padding: 10px; margin-bottom: 10px;">
-  <summary style="cursor: pointer;">🔨 New commit : Refinement  (<a href="https://github.com/prjkt-nv404/LinkLayerVPN-Manager" target="_blank">...tg@voltsshx</a>) to LinkLayerVPN-Manager
+  <summary style="cursor: pointer;">🔨 New commit : Add Changelog  (<a href="https://github.com/prjkt-nv404/LinkLayerVPN-Manager" target="_blank">...tg@voltsshx</a>) to LinkLayerVPN-Manager
 [Public]:main</summary>
   <ul>
     <li><strong>[improvement]</strong> Scipt improvement</li>
