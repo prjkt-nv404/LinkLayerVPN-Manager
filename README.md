@@ -15,7 +15,7 @@ A bash - Manager for LinkLayer VPN
 #### Requirement
 - A Linux base System ```VPS```
 - Domain _(eg: linklayer.voltssh.xyz)_ - _(get a free domain from 'https://duckdns.org')_
-- An install key ```❗️``` - through our use [Bot](https://t.me/voltverifybot) 🤏
+- An install key ```❗️``` - through our [Bot](https://t.me/voltverifybot) 🤏
 - Common sense
 
 #### Installation
