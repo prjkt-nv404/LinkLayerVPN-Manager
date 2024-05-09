@@ -23,7 +23,7 @@ A bash - Manager for LinkLayer VPN
 Install Key:
 ```voltxLLvpn```
 
-Follow these steps to install and set up Volt UDP-Hysteria:
+Follow these steps to install and set up LinkLayerVPN-Manager:
 
 ```
 sudo -s
