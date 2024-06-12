@@ -11,11 +11,19 @@
 - DNSTT Protocol `yes`
 - UDP HyRequest Protocol `yes`
 - HTTP Dual Protocol `yes`
+  
 #### Requirement
 - A Linux base System ```VPS```
 - Domain _(eg: linklayer.voltssh.xyz)_ - _(get a free domain from 'https://duckdns.org')_
 - An install key ```❗️``` - through our [Bot](https://t.me/voltverifybot) 🤏
 - Common sense
+
+#### Supported OS
+- ubuntu 22.04 [x86_64] ✅ _(mandatory)_
+
+#### Tested VPS Providers
+> - Civo LTD ✅
+> - OVH Cloud ✅
 
 #### Installation
 
@@ -46,13 +54,6 @@ sudo -s
 ```
 link
 ```
-
-#### Supported OS
-- ubuntu 20.04 [x86_64] ✅ _(recommended)_
-
-#### Tested VPS Providers
-- Civo LTD ✅
-
 ---
 #### Changelog
 
