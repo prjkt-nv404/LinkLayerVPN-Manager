@@ -1,17 +1,16 @@
+# LinkLayerVPN-Manager `*4.1`
+> A bash - Manager for LinkLayer VPN
+<hr>
 <center><img src="https://raw.githubusercontent.com/prjkt-nv404/LinkLayerVPN-Manager/main/asset/screen.png" alt="banner" width="500"/></center>
 
-# LinkLayerVPN-Manager
-A bash - Manager for LinkLayer VPN
-
 #### Protocols
-- SSL/TLS Protocol
-- HTTP Protocol
-- HTTP/TLS Mix Protocol
-- WebSocket Protocol
-- DNSTT Protocol
-- UDP HyRequest Protocol
-- HTTP Dual Protocol
-
+- SSL/TLS Protocol `yes`
+- HTTP Protocol `yes`
+- HTTP/TLS Mix Protocol `yes`
+- WebSocket Protocol `yes`
+- DNSTT Protocol `yes`
+- UDP HyRequest Protocol `yes`
+- HTTP Dual Protocol `yes`
 #### Requirement
 - A Linux base System ```VPS```
 - Domain _(eg: linklayer.voltssh.xyz)_ - _(get a free domain from 'https://duckdns.org')_
@@ -21,7 +20,10 @@ A bash - Manager for LinkLayer VPN
 #### Installation
 
 Install Key:
-```voltxLLvpn```
+
+  > voltxLLvpn - `expired`
+  > - click ⤵
+  > -    [here](https://github.com/prjkt-nv404/LinkLayerVPN-Manager/edit/main/README.md#telegram)
 
 Follow these steps to install and set up LinkLayerVPN-Manager:
 
