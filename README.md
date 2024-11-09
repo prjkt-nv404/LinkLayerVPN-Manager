@@ -31,7 +31,7 @@ Install Key:
 
   > voltxLLvpn - `expired`
   > - click ⤵
-  > -    [here](https://github.com/prjkt-nv404/LinkLayerVPN-Manager/edit/main/README.md#telegram)
+  > -    [here](https://github.com/prjkt-nv404/LinkLayerVPN-Manager/#telegram)
 
 Follow these steps to install and set up LinkLayerVPN-Manager:
 
